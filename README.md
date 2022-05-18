@@ -48,7 +48,9 @@ ___
 
 * [Imagen 20 :Se crea la rama develop](#crear-nueva-rama)
 
-* [Imagen 20 :Se hace un push a develop](#push-otrojavascript)
+* [Imagen 21 :Se hace un push a develop](#push-otrojavascript)
+
+* [Imagen 22 :Mostrar ramas](#mostrar-ramas)
 
 ---
 ## Crear un repositorio local
