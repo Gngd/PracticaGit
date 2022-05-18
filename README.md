@@ -161,5 +161,8 @@ Se eliminan los cambios en CSS desde el ultimo commit.
 ## se asigna el repositorio local al remoto
 
 se asigna usando el comando git remote add origin
+![asignar](./img/)
+---
 
-![asignar](./img/asignar.png)
+
+
