@@ -41,6 +41,15 @@ ___
 * [Imagen 16 :Se eliminan cambios en principal.css](#se-eliminan-cambios-en-css)
 
 * [Imagen 17 :se asigna el repositorio local al remoto](#se-asigna-el-repositorio-local-al-remoto)
+
+* [Imagen 18 :Se sube la rama master](#subir-rama-master)
+
+* [Imagen 19 :Se comprueba los archivos subidos](#comprobar-github)
+
+* [Imagen 20 :Se crea la rama develop](#crear-nueva-rama)
+
+* [Imagen 20 :Se hace un push a develop](#push-otrojavascript)
+
 ---
 ## Crear un repositorio local
  Se comienza creando un repositorio local con el comando git init.
@@ -161,8 +170,40 @@ Se eliminan los cambios en CSS desde el ultimo commit.
 ## se asigna el repositorio local al remoto
 
 se asigna usando el comando git remote add origin
-![asignar](./img/)
+![asignar](./img/asignar.png)
+
 ---
+## Subir rama master
 
+Se sube la rama master mediante el comando git push -u origin main
 
+![subir rama master](./img/subirM.png)
 
+---
+## Comprobar github
+
+Se comprueba que todos los archivos se subieron
+
+![github](./img/github.png)
+
+---
+## Crear nueva rama
+
+se crea una rama mediante el comando git branch "" y se mueve a ella mediante el comando git checkout
+
+![rama](./img/develop.png)
+
+---
+## Push otrojavascript
+
+Se crea un archivo llamdo otrojavascript.js se utiliza git add, git commit y git push
+
+![otrojavascript](./img/push-develop.png)
+
+---
+## Mostrar ramas
+
+con el comando git diff develop master
+
+![Mostrar ramas](./img/mostrar-ramas.png)
+---
